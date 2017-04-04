@@ -1,6 +1,6 @@
 name: ipython-notebook
 dependencies:
-  - python
+  - python=2.7
   - notebook
   - ipywidgets
   - requests
